@@ -1,0 +1,16 @@
+langchain
+openai
+llama-index
+transformers
+torch
+diffusers
+accelerate
+pillow
+faiss-cpu
+chromadb
+tiktoken
+sentence-transformers
+blip
+opencv-python
+pydub
+python-dotenv
